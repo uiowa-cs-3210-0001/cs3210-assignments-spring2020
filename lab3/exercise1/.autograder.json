@@ -1,5 +1,5 @@
 {
     "diff": {
-        "replace": "Current directory: (.+)/lab3/exercise1/bin"
+        "replace": "Current directory: (.+?)/lab3/exercise1"
     }
 }
