@@ -1,1 +1,1 @@
-Current directory: .../lab3/exercise1
+Current directory: ./lab3/exercise1
