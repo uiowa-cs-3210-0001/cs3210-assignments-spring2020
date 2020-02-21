@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Doctest](https://github.com/onqtam/doctest/blob/master/doc/markdown/tutorial.md) is a light-weight, single-header C++ testing framework that we'll to be using going forward in place of standard standard `assert`. **The assignment repls** (and the corresponding Github folders for those of you who are working on Github) **will come with Doctest installed and pre-configured**, so you won't have to do anything special to start using it. It's also very straightforward to use; essentially, instead of `assert` we'll be utilizing `REQUIRE` to verify that our code does what it's supposed to:
+[Doctest](https://github.com/onqtam/doctest/blob/master/doc/markdown/tutorial.md) is a light-weight, single-header C++ testing framework that we'll to be using going forward in place of the standard `assert`. **The assignment repls** (and the corresponding Github folders for those of you who are working on Github) **will come with Doctest installed and pre-configured**, so you won't have to do anything special to start using it. It's also very straightforward to use; essentially, instead of `assert` we'll be utilizing `REQUIRE` to verify that our code does what it's supposed to:
 
 ```C++
 int x = 2;
