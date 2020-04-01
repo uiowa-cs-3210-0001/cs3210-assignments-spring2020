@@ -1,1 +1,3 @@
-Enter a number of elements: Enter a number: Enter a number: Enter a number: Enter a number: Enter a number: 99 12 -5 0 11 
+Enter a number of elements: Enter a number: Enter a number: Enter a number: Enter a number: Enter a number: 
+You entered:
+99 12 -5 0 11 
