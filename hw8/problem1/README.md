@@ -12,4 +12,4 @@
 
 "Oh, brother", you sighed, typed back "Sure", and opened the Github link.
 
-Using Bob's tests [here](https://repl.it/@agurtovoy/hw8-problem1) ([`main.cpp`](main.cpp)) as a guidance, implement `load_game` function that takes a file path and loads a Tic-Tac-Toe game board/state ( `game_state`) from the speficied file. **Do not modify the tests**. See the [`input` subdirectory](input) for the two text files used in the tests.
+Using Bob's tests [here](https://repl.it/@agurtovoy/hw8-problem1) ([`main.cpp`](main.cpp)) as a guidance, implement `load_game` function that takes a file path and loads a Tic-Tac-Toe game board/state ( `game_state`) from the specified file. **Do not modify the tests**. See the [`input` subdirectory](input) for the two text files used in the tests.
